@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "updated": "2026-04-21",
+  "books": [
+    {
+      "id": "doyle-land-of-mist",
+      "title": "The Land of Mist",
+      "author": "Arthur Conan Doyle",
+      "year": 1926,
+      "language": "en",
+      "genres": ["Fiction", "Spiritualism", "Adventure"],
+      "description": "Professor Challenger, the irascible scientist from The Lost World, is drawn into the world of Spiritualism alongside journalist Edward Malone and Challenger's daughter Enid. Through séances, mediums, and psychic phenomena, Doyle weaves a tale that blends adventure with his passionate advocacy for the Spiritualist movement.",
+      "chapters": 20,
+      "cover": "https://raw.githubusercontent.com/rocketxx/book-catalog-CC01.0/main/image/the-land-of-mist-1929.png",
+      "text_url": "https://raw.githubusercontent.com/rocketxx/book-catalog-CC01.0/refs/heads/main/doyle-land-of-mist.txt",
+      "source": "Project Gutenberg",
+      "license": "Public Domain"
+    }
+  ]
+}
