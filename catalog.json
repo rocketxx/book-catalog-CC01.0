@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "updated": "2026-04-21",
   "books": [
     {
@@ -13,8 +13,27 @@
       "chapters": 20,
       "cover": "https://raw.githubusercontent.com/rocketxx/book-catalog-CC01.0/main/image/the-land-of-mist-1929.png",
       "text_url": "https://raw.githubusercontent.com/rocketxx/book-catalog-CC01.0/refs/heads/main/doyle-land-of-mist.txt",
-      "source": "Project Gutenberg",
+      "source": "",
       "license": "Public Domain"
-    }
+    },
+    {
+  "id": "doyle-sherlock-holmes",
+  "title": "The Adventures of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "year": 1892,
+  "language": "en",
+  "genres": [
+    "Fiction",
+    "Mystery",
+    "Detective",
+    "Classic"
+  ],
+  "description": "The first collection of short stories featuring the brilliant detective Sherlock Holmes and his faithful companion Dr. Watson. Twelve cases showcase Holmes's unparalleled deductive reasoning, from A Scandal in Bohemia to The Adventure of the Copper Beeches.",
+  "chapters": 12,
+  "cover": "https://github.com/rocketxx/book-catalog-CC01.0/blob/main/image/The-Adventures-of-Sherlock-Holmes-COVER.png",
+  "text_url": "https://github.com/rocketxx/book-catalog-CC01.0/blob/main/doyle-sherlock-holmes.txt",
+  "source": "",
+  "license": "Public Domain"
+}
   ]
 }
